@@ -20,6 +20,15 @@ My primary SIEM is Microsoft Sentinel, alongside experience with Splunk.
   Conditional Access, and role-based access control.
 - **Cloud Security:** Azure security monitoring and configuration reviews.
 
+## Certifications
+
+- CompTIA A+
+- CompTIA Security+
+- Microsoft Technology Associate (MTA)
+- Certified Ethical Hacker (CEH)
+- Qualys Vulnerability Management, Detection and Response (VMDR)
+- Qualys CyberSecurity Asset Management (CSAM)
+
 ## Tools & Technologies
 
 | Area | Technologies |
